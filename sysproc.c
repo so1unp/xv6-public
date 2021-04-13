@@ -90,8 +90,3 @@ sys_uptime(void)
   return xticks;
 }
 
-int
-sys_answer(void)
-{
-    return 42;
-}
